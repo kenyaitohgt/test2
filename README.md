@@ -1,3 +1,3 @@
-# test2
+# test-canvas
 
-This is the README file for the test2 repository.
+This is a placeholder for the test-canvas directory.
